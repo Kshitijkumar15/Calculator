@@ -2,7 +2,7 @@
   
   # Calculator
   </div>
-$~~~~~~$
+
 
 ## Introduction
 Welcome to my basic calculator app developed using Android Studio! This simple app allows you to perform basic arithmetic calculations right on your Android device. Whether you need to add, subtract, multiply, or divide, this app has got you covered.
